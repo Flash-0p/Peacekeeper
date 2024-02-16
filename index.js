@@ -60,6 +60,8 @@ client.once('ready', () => {
   console.log(`\x1b[36m%s\x1b[0m`, `|    ✅ Bot is ready as ${client.user.tag}`);
   console.log(`\x1b[36m%s\x1b[0m`, `|    ✨ Peacekeeper Is Online`);
   console.log(`\x1b[36m%s\x1b[0m`, `|    ❤️  KILLER KA ADDA`);
+  console.log(`\x1b[36m%s\x1b[0m`, `|    🚀 Flash OP`);
+
   updateStatusAndSendMessages();
 
   setInterval(() => {
